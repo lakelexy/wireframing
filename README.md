@@ -79,4 +79,84 @@ ________________________________________
 
 By focusing on these key elements—Layout Structure, Navigation, Content Placement, and Functionality—wireframes provide a clear blueprint for a user-centric design. Each element works together to ensure a seamless, intuitive, and effective user experience.
 
+## Types of Wireframes.
+The main difference between low-fidelity (low-fi) and high-fidelity (high-fi) wireframes lies in their level of detail and purpose within the design process. Here's an explanation:
+________________________________________
+### Low-Fidelity Wireframes
+
+#### Characteristics:
+•	Basic and abstract: Simple sketches or block layouts with minimal detail.
+
+•	No colors, typography, or images: Often black-and-white, using placeholders (e.g., boxes and lines).
+
+•	Focus on structure and functionality: Emphasize layout, navigation, and general organization of content.
+
+•	Quick to create: Can be done on paper or with basic tools like Balsamiq or Figma.
+
+#### When to Use:
+•	Early in the design process: To brainstorm, conceptualize ideas, and align stakeholders on the overall structure.
+
+•	Exploring multiple options: Ideal for rapid prototyping and iterating on different ideas before committing to details.
+
+•	Facilitating team discussions: Helps focus on functionality rather than aesthetic details.
+
+#### Advantages:
+•	Encourages creativity and experimentation.
+
+•	Easy to revise and adapt.
+
+•	Reduces the time and effort spent on early-stage design.
+________________________________________
+### High-Fidelity Wireframes
+
+#### Characteristics:
+•	Detailed and realistic: Includes specific typography, colors, images, and interactive elements.
+
+•	Close to the final design: May incorporate real content and mimic the end user experience.
+
+•	Interactive features: Clickable links and animations to demonstrate functionality.
+
+•	Time-consuming: Requires more effort and specialized tools like Adobe XD, Sketch, or Figma.
+
+#### When to Use:
+•	Later stages of design: To finalize layout, visual details, and interactions.
+
+•	User testing: Helps stakeholders and users visualize and interact with a near-final product.
+
+•	Handoff to developers: Provides clear, detailed guidance for implementation.
+
+#### Advantages:
+•	Helps identify usability and aesthetic issues.
+
+•	Supports stakeholder buy-in by providing a polished representation of the product
+
+•	Reduces ambiguity for developers.
+
+## The link provided “Figma project titled "Project Airbnb."
+Based on the provided content, this wireframe is high-fidelity. Here’s why:
+________________________________________
+### High-Fidelity Indicators:
+
+#### 1. Detailed Text Content:
+o	Includes real text such as descriptions of the properties, reviews, pricing, and policies (e.g., “Free cancellation before Aug 23” and “$2,500/night”).
+
+o	Uses realistic placeholders like specific locations ("Sidemen, Bali, Indonesia") and property types ("Villa Arrecife Beach House").
+
+#### 2. Structured Design:
+o	Layout includes sections like property descriptions, amenities, reviews, pricing, and booking steps.
+
+o	Multiple detailed UI elements, including buttons like "Sign in," "Continue with Google," and "Confirm & Pay."
+
+#### 3. Specific Elements:
+o	Incorporates placeholders for images (e.g., villas, treehouses) and includes reviews with ratings (e.g., "4.76 (345 reviews)").
+
+o	Displays functional information, such as booking fees, dates, and interactive features like "Forgot password?" and "OR Continue with Facebook."
+
+#### 4. Focus on User Experience (UX):
+o	Realistic flow mimicking user interactions with a travel booking platform.
+
+o	Supports decision-making by detailing features like cancellation policies, amenities, and what each property offers.
+
+
+
 
